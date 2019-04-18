@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="nama_user">nama user</string>
+    <string name="asal_user">asal user</string>
+    <string name="ganti_bahasa">Ganti Bahasa</string>
+    <string name="nama_kalian_masing_masing">Nama kalian masing masing</string>
+    <string name="jakarta_pusat">Jakarta Pusat</string>
+</resources>

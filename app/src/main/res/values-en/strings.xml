@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="nama_user">name user</string>
+    <string name="asal_user">from user</string>
+    <string name="ganti_bahasa">chance language</string>
+    <string name="nama_kalian_masing_masing">Tubagus Muhammad Habiburohman</string>
+    <string name="jakarta_pusat">Jakarba Pusat</string>
+</resources>
